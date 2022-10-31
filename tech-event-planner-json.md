@@ -145,7 +145,7 @@
 
 - Route: `/dashboard/update-event/:id`
 - Method: `GET`
-- View Rendering: `new-event`
+- View Rendering: `update-event`
 - Need Authentication: Yes
 
 ### Variables
